@@ -1,1 +1,1 @@
-INSERT INTO subject (course,lecturer) VALUES ("datascience","Jean-Marc Brossier");
+INSERT INTO subject (id, course,lecturer) VALUES (1, "datascience","Jean-Marc Brossier");
